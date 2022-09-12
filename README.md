@@ -3,6 +3,8 @@
 ## Description
 Learn more about me, visit my portfolio to see a sample of my work, and download my resumé. Then hire me!
 
+This is an alternate portfolio site so I can continue to work on building myself and bettering my online presence.
+
 ## Table of Contents
 * [Usage](#usage)
 * [Installation](#installation)
@@ -14,10 +16,10 @@ Learn more about me, visit my portfolio to see a sample of my work, and download
 I'm hardworking and fun. Get to know me! Find out how I can help your company, be an asset on your team, or just help out with your next gig.
 
 ## Installation
-Visit [my website](https://sarahwylie.github.io/hello-wylie/) to get started!
+Visit [my website](https://sarahwylie.github.io/hello-wylie-alt/) to get started!
 
 ## Teaser:
-![Screenshot](./SarahWylie.png)
+![Headshot](./src/assets/profile-pic.png)
  
 ## Tests
 This project was tested using Jest.
