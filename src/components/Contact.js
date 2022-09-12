@@ -36,7 +36,8 @@ function ContactForm() {
     // //JSX
     return (
         <section className='contact-info'>
-            <h1 data-testid="h1tag">Contact me</h1>
+      <h2 className="p-2 display-inline-block strong">Contact</h2>
+            <br/>
             <div>Use the links below to reach out, or you can email me directly at
                 <a href="mailto:sarahannemariawylie@gmail.com?subject=website">sarahannemariawylie@gmail.com</a>
             </div>
