@@ -2,7 +2,7 @@
   "name": "hello-wylie-alt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sarahwylie.github.io/hello-wylie-alt",
+  "homepage": "https://sarahwylie.github.io/Hello-Wylie-Alt/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",

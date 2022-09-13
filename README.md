@@ -16,7 +16,7 @@ This is an alternate portfolio site so I can continue to work on building myself
 I'm hardworking and fun. Get to know me! Find out how I can help your company, be an asset on your team, or just help out with your next gig.
 
 ## Installation
-Visit [my website](https://sarahwylie.github.io/hello-wylie-alt/) to get started!
+Visit [my website](https://sarahwylie.github.io/Hello-Wylie-Alt/) to get started!
 
 ## Teaser:
 ![Headshot](./src/assets/profile-pic.png)
